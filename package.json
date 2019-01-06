@@ -1,0 +1,27 @@
+{
+  "name": "ts-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelanwu/ts-lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelanwu/ts-lib/issues"
+  },
+  "homepage": "https://github.com/kelanwu/ts-lib#readme",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  },
+  "files": [
+    "lib/"
+  ]
+}
